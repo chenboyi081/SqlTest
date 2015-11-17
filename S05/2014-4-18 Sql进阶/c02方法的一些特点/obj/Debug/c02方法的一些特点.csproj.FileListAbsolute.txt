@@ -1,0 +1,5 @@
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c02方法的一些特点\bin\Debug\c02方法的一些特点.exe.config
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c02方法的一些特点\bin\Debug\c02方法的一些特点.exe
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c02方法的一些特点\bin\Debug\c02方法的一些特点.pdb
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c02方法的一些特点\obj\Debug\c02方法的一些特点.exe
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c02方法的一些特点\obj\Debug\c02方法的一些特点.pdb

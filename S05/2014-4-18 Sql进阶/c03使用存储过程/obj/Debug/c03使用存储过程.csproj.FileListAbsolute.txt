@@ -1,0 +1,16 @@
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\bin\Debug\c03使用存储过程.exe.config
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\bin\Debug\c03使用存储过程.exe
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\bin\Debug\c03使用存储过程.pdb
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.csprojResolveAssemblyReference.cache
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.exe
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.pdb
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.frmProc.resources
+D:\Classes\十三期.net加强+sql server加强\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.csproj.GenerateResource.Cache
+F:\就业班学习资料\就业班\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\bin\Debug\c03使用存储过程.exe.config
+F:\就业班学习资料\就业班\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.exe
+F:\就业班学习资料\就业班\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.pdb
+F:\就业班学习资料\就业班\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\bin\Debug\c03使用存储过程.exe
+F:\就业班学习资料\就业班\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\bin\Debug\c03使用存储过程.pdb
+F:\就业班学习资料\就业班\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.csprojResolveAssemblyReference.cache
+F:\就业班学习资料\就业班\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.frmProc.resources
+F:\就业班学习资料\就业班\2014-4-18 SQL进阶\案例\2014-4-18 Sql进阶\c03使用存储过程\obj\Debug\c03使用存储过程.csproj.GenerateResource.Cache
