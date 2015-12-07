@@ -1,4 +1,4 @@
-# SqlTest
+# SqlTest【TSQL练习】 
 ## 一.S01
 1. charTest
 2. SQL语句入门
