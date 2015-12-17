@@ -1,6 +1,7 @@
 # SqlTest【TSQL练习】 
 ## 一.S01
 1. charTest
+char,vchar,nchar,nvchar
 2. SQL语句入门
 3. 约束-保证数据完整性
 
